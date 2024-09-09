@@ -65,9 +65,5 @@ yarn start
 npm start
 ```
 
-## Author
-
-[Juan Luis Rojas León](https://twitter.com/rojas_leon_)
-
 ## License
 MIT
